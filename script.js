@@ -1,0 +1,1 @@
+alert("tidak ada hasilnya bisa anda keluar dari laman ini?")
